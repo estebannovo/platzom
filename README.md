@@ -28,7 +28,7 @@ platzom("sometemos") // SoMeTeMoS
 ```
 
 ## Créditos
-- [Sacha Lifszyc](https://twitter.com/@slifszyc)
+- [Esteban Novo](https://twitter.com/@estebannovo)
 
 ## Licencia
 
